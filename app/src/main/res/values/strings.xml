@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cato</string>
+    <string name="imageiconic">imageIconic</string>
+    <string name="logowelcom">LogoWelcom</string>
+    <string name="bahasa_indonesia">Indonesia</string>
+    <string name="english">English</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="write_here">Write Here</string>
+    <string name="next">Next</string>
+    <string name="halo">Halo</string>
+    <string name="nama">Ryan</string>
+    <string name="hari">Hari ini:</string>
+    <string name="tanggal">Kamis, 26 Mei 2022</string>
+    <string name="belajar">Apa yang ingin anda pelajari hari ini?</string>
+    <string name="fitur">Fitur lainnya</string>
+</resources>
